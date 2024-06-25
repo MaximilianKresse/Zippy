@@ -1,7 +1,7 @@
 {
-    "name": "alchemy/zippy",
+    "name": "maximilian-kresse/zippy",
     "type": "library",
-    "description": "Zippy, the archive manager companion",
+    "description": "Zippy, the archive manager companion - clone of alchemy/zippy",
     "keywords": ["zip", "tar", "bzip", "compression"],
     "license": "MIT",
     "authors": [
