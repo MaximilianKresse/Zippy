@@ -1,9 +1,11 @@
-/tests/phpunit_report
 /nbproject/
 /vendor/
+/.idea/
 /docs/build
+/node_modules/
+/tests/node_server.pid
+/tests/Tests/Resource/Teleporter/plop-badge/
+/tests/phpunit_report
 composer.phar
 composer.lock
-/tests/node_server.pid
-node_modules/
-tests/Tests/Resource/Teleporter/plop-badge/
+/**/*.cache
